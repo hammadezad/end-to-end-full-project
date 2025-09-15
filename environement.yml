@@ -1,0 +1,24 @@
+name: atlas
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - numpy
+  - jupyterlab
+  - cpuonly
+  - torchaudio
+  - pytorch
+  - torchvision
+  - requests
+  - uvicorn
+  - pydantic
+  - fastapi
+  - mlflow
+  - prefect
+  - dvc
+prefix: C:\Users\HammadEzad\miniconda3\envs\atlas
